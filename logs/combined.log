@@ -1,0 +1,11 @@
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api","timestamp":"2026-11-20T13:54:41.783Z"}
+{"level":"info","message":"::1 - - [20/Nov/2026:13:54:41 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2026-11-20T13:54:41.797Z"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api","timestamp":"2026-11-21T14:41:32.222Z"}
+{"level":"info","message":"::1 - - [21/Nov/2026:14:41:32 +0000] \"GET / HTTP/1.1\" 200 42 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2026-11-21T14:41:32.230Z"}
+{"level":"info","message":"::1 - - [21/Nov/2026:14:41:32 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2026-11-21T14:41:32.272Z"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api","timestamp":"2026-11-21T15:57:56.617Z"}
+{"level":"info","message":"::1 - - [21/Nov/2026:15:57:56 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2026-11-21T15:57:56.634Z"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api","timestamp":"2026-11-22T15:09:30.886Z"}
+{"level":"info","message":"::1 - - [22/Nov/2026:15:09:30 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2026-11-22T15:09:30.898Z"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api","timestamp":"2026-11-22T15:10:52.001Z"}
+{"level":"info","message":"::1 - - [22/Nov/2026:15:10:52 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2026-11-22T15:10:52.003Z"}
